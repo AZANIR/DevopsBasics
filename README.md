@@ -1,2 +1,1 @@
-# DevopsBasics
-DevopsBasics
+Devops Project
